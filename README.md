@@ -1,5 +1,11 @@
 # Patient selective dip-buy cbBTC bot — btc-race-24h-20261123-0511
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/rfky18/btc-race-24h-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/rfky18/btc-race-24h-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Entry for the [btc-race-24h-20261123-0511 bounty on make.fun](https://make.fun/bounty/btc-race-24h-20261123-0511).
+
 Long-only bot trading Coinbase Wrapped BTC (cbBTC) vs USDC on 1-minute
 on-chain bars, $1,000 paper money, one position at a time.
 
